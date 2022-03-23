@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name":"Khushal Dayala",
+    "description":"I am a web development engineer and I use react.js, vue.js, Laravel, PHP to develop Project",
+    "image":"profilepic.jpg",
+    "bio":"Aspiring to work with an organization that offers responsible position where I can utilize my skills and capabilities to carve a niche for myself and effectively deliver towards contributing to the organization’s aspirations and also enhance my personal growth through continual upgrading of knowledge.",
+    "contactmessage":"Contact me by email / Mobile Number.",
+    "email": "khushaldayala15409@gmail.com",
+    "phone": "7096895211",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"Gurukul Road, Memnagar",
+      "city":"Ahmedabad",
+      "state":"Gujarat",
+      "zip": "380052"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"myresume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"SSC",
+        "degree":"Shree Sarsvati Vidhyalaya (Dedan) – March (GSEB)",
+        "graduated":"",
+        "description":"Percentage : 62.16 %"
+      },
+      {
+        "school":"HSC (Commerce Stream)",
+        "degree":"Shree Swaminarayan Gurukul Vidhyalaya (Memnagar) – March (GSHEB)",
+        "graduated":"",
+        "description":"Percentage : 79.4 %"
+      },
+      {
+        "school":"BACHELORE",
+        "degree":"Bachelor of Computer Application-July 2018",
+        "graduated":"",
+        "description":"JG College of computer application (Gujarat University)"
+      }
+    ],
+    "work":[
+      {
+        "company":"Justcode Software Development PVT LTD",
+        "title":"Junior Web Developer",
+        "years":"December 2020 - Present",
+        "description":"I'm junior webdeveloper in this company. I have 1.5 year experience. I have done Six project in laravel and Vue js ( Restaurant, Ecommerce, Quizapp, Photoshare, Leave Management, Phasesite.com ) and currently I'm working on react js. I have good knowledge about React js, Vue js, Laravel, Core php, Rest API, Jquery, Ajax, Git, Git hub, MS Sql server, HTML, Css"
+      },
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Laravel",
+        "level":"80%"
+      },
+      {
+        "name":"API",
+        "level":"95%"
+      },
+      {
+        "name":"VueJs",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"85%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"JAVA SCRIPT",
+        "level":"80%"
+      },
+      {
+        "name":"Jquery",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Restaurant",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Ecommerce",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Quizapp",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Photoshare",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Leave Management",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Phasesite.com",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
